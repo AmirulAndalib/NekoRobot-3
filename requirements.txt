@@ -10,7 +10,7 @@ cowpy
 motor==2.5.1
 gpytranslate==1.5.1
 PyDictionary==2.0.1
-GitPython==3.1.30
+GitPython==3.1.62
 emoji==1.6.3
 pretty-errors==1.2.25
 lxml
@@ -55,7 +55,7 @@ pySmartDL
 validators
 asyncio
 nltk
-aiohttp==3.8.3
+aiohttp==3.14.4
 pykeyboard==0.1.2
 Pillow==9.3.0
 CurrencyConverter
@@ -65,7 +65,7 @@ pyrate-limiter==2.8.2
 python-arq==6.0.5
 hachoir
 configparser
-python-dotenv==1.0.0
+python-dotenv==1.2.4
 bing_image_downloader
 parsel
 urllib3
